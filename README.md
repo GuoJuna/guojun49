@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://gitee.com/guojun49/images/raw/master/blog-img/2020/07/20200729195546.png)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guojun49)](https://github.com/anuraghazra/github-readme-stats)
